@@ -1,0 +1,738 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gavlin Barlow | About</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div id="wrapper">
+
+<header>
+  <a class="logo" href="index.html">Gavlin Barlow</a>
+  <nav>
+    <a href="about.html">About</a>
+    <a href="work.html">Work</a>
+    <a href="project-truealliance.html">True Alliance</a>
+    <a href="project-parley.html">Parley</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section class="feature">
+    <img src="images/IMG_4854.jpeg" alt="Gavlin Barlow portrait">
+    <div>
+      <p class="eyebrow">About</p>
+      <h2>Creative direction rooted in identity and energy.</h2>
+      <p>I am Gavlin Barlow, creative lead and marketing manager for True Alliance LLC, and a continuing student designer at PPSC. My work focuses on building visuals that feel bold, clean, and connected to real communities.</p>
+      <p>I approach design through research, concept development, visual testing, and revision. My goal is to create work that looks professional while still carrying identity, energy, and purpose.</p>
+      <p><a class="btn" href="contact.html">Contact Me</a></p>
+    </div>
+  </section>
+
+  <section class="contact-box">
+    <h2>Resume and LinkedIn</h2>
+    <p>Add your resume PDF and LinkedIn URL here before publishing.</p>
+    <p><a href="#">Resume Link</a></p>
+    <p><a href="#">LinkedIn Link</a></p>
+  </section>
+</main>
+
+<footer>
+  © Gavlin Barlow Portfolio
+</footer>
+
+</div>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gavlin Barlow | Contact</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div id="wrapper">
+
+<header>
+  <a class="logo" href="index.html">Gavlin Barlow</a>
+  <nav>
+    <a href="about.html">About</a>
+    <a href="work.html">Work</a>
+    <a href="project-truealliance.html">True Alliance</a>
+    <a href="project-parley.html">Parley</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section class="contact-box">
+    <p class="eyebrow">Contact</p>
+    <h2>Let’s connect.</h2>
+    <p><strong>Gavlin Barlow</strong></p>
+    <p>Phone: 605-415-9632</p>
+    <p>Email: <a href="mailto:gbarloe@icloud.com">gbarloe@icloud.com</a></p>
+    <p>Add your LinkedIn and resume links here before publishing.</p>
+
+    <p><a class="btn" href="mailto:gbarloe@icloud.com">Email Me</a></p>
+  </section>
+</main>
+
+<footer>
+  © Gavlin Barlow Portfolio
+</footer>
+
+</div>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gavlin Barlow | Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div id="wrapper">
+
+<header>
+  <a class="logo" href="index.html">Gavlin Barlow</a>
+  <nav>
+    <a href="about.html">About</a>
+    <a href="work.html">Work</a>
+    <a href="project-truealliance.html">True Alliance</a>
+    <a href="project-parley.html">Parley</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div>
+    <p class="eyebrow">Creative Lead · Marketing · Student Designer</p>
+    <h1>Design with identity, movement, and purpose.</h1>
+    <p>I am Gavlin Barlow, a continuing student designer at PPSC and creative lead for True Alliance LLC. My work connects brand identity, digital media, photography, event promotion, apparel concepts, and visual storytelling.</p>
+    <a class="btn" href="work.html">View Work</a>
+  </div>
+
+  <img src="images/IMG_4854.jpeg" alt="Portrait of Gavlin Barlow">
+</section>
+
+<main>
+  <section class="section-intro">
+    <p class="eyebrow">Selected Work</p>
+    <h2>Portfolio Projects</h2>
+    <p>This portfolio highlights class projects and brand-based design work that show my process, revisions, and growth as a designer.</p>
+  </section>
+
+  <section class="grid">
+    <div class="card">
+      <img src="images/TrueALL.1.PNG" alt="True Alliance logo">
+      <h3><a href="project-truealliance.html">True Alliance Branding</a></h3>
+      <p>Digital banners, clothing concepts, photography layouts, and brand visuals created for True Alliance.</p>
+    </div>
+
+    <div class="card">
+      <img src="images/HonorArtProjectBarlowFinal.tif" alt="Honor digital wallpaper">
+      <h3>Digital Wallpaper</h3>
+      <p>A visual composition using contrast, space, reflection, and typography to communicate honor and mood.</p>
+    </div>
+
+    <div class="card">
+      <img src="images/ParleyConcept1BARLOW.pdf" alt="Parley concept">
+      <h3><a href="project-parley.html">Parley Submission</a></h3>
+      <p>A publication concept focused on contrast, mood, readable type, and strong visual balance.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  © Gavlin Barlow Portfolio
+</footer>
+
+</div>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gavlin Barlow | Parley Project</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<header>
+
+  <a class="logo" href="index.html">Gavlin Barlow</a>
+
+  <nav>
+    <a href="about.html">About</a>
+    <a href="work.html">Work</a>
+    <a href="project-truealliance.html">True Alliance</a>
+    <a href="project-parley.html">Parley</a>
+    <a href="contact.html">Contact</a>
+    <a href="https://www.linkedin.com/in/gavlin-barlow-14074a401/" target="_blank">LinkedIn</a>
+  </nav>
+
+</header>
+
+<main>
+
+<section class="section-intro">
+
+  <p class="eyebrow">Publication Design</p>
+
+  <h2>Parley Submission</h2>
+
+  <p>
+    This project was created for Parley 2026,
+    the PPSC Literary and Arts Journal.
+    The design focuses on mood, contrast,
+    readability, and balanced composition.
+  </p>
+
+</section>
+
+<section class="feature">
+
+  <img src="images/parley-final.jpg"
+  alt="Parley publication design">
+
+  <div>
+
+    <h2>Purpose</h2>
+
+    <p>
+      The goal was to create a publication concept
+      that felt visually strong while still remaining
+      readable and organized.
+    </p>
+
+    <p>
+      Dark tones, muted colors, and layered composition
+      were used to create an aged cinematic atmosphere
+      while maintaining strong visual hierarchy.
+    </p>
+
+    <p>
+      The layout balances typography,
+      spacing, and imagery to support
+      the overall concept and user experience.
+    </p>
+
+  </div>
+
+</section>
+
+<section class="project-grid">
+
+  <img class="project-img"
+  src="images/parley-logos.png"
+  alt="Parley logo exploration">
+
+  <img class="project-img"
+  src="images/parley-final.jpg"
+  alt="Final Parley publication design">
+
+</section>
+
+<section class="process-list">
+
+  <h2>P.O.P. Method</h2>
+
+  <ol>
+
+    <li>
+      <strong>Purpose:</strong>
+      Create a publication design that communicates
+      mood, atmosphere, and identity.
+    </li>
+
+    <li>
+      <strong>Objective:</strong>
+      Use hierarchy, muted tones, imagery,
+      and contrast to create a refined visual system.
+    </li>
+
+    <li>
+      <strong>Process:</strong>
+      Experiment with typography,
+      composition, and image placement while revising
+      based on readability and visual balance.
+    </li>
+
+  </ol>
+
+</section>
+
+</main>
+
+<footer>
+
+  © Gavlin Barlow Portfolio |
+
+  <a href="https://www.linkedin.com/in/gavlin-barlow-14074a401/" target="_blank">
+    LinkedIn
+  </a>
+
+</footer>
+
+</div>
+
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gavlin Barlow | True Alliance Project</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div id="wrapper">
+
+<header>
+  <a class="logo" href="index.html">Gavlin Barlow</a>
+  <nav>
+    <a href="about.html">About</a>
+    <a href="work.html">Work</a>
+    <a href="project-truealliance.html">True Alliance</a>
+    <a href="project-parley.html">Parley</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section class="section-intro">
+    <p class="eyebrow">Brand and Event Design</p>
+    <h2>True Alliance Project</h2>
+    <p>This project focused on digital promotion, event branding, apparel concepts, and turning photography into branded digital compositions.</p>
+  </section>
+
+  <section class="feature">
+    <img src="images/TrueALL.1.PNG" alt="True Alliance logo">
+    <div>
+      <h2>Purpose</h2>
+      <p>The purpose was to create visuals that supported True Alliance’s identity and community presence. The work needed to feel strong, clean, and connected to automotive culture.</p>
+      <p>The banner direction used sacred colors, feathers, cars, community, and traditional healing as key visual ideas.</p>
+    </div>
+  </section>
+
+  <section class="project-grid">
+    <img class="project-img" src="images/71AEF75E-158F-4811-AAD2-D0C0EB8E0F1C.PNG" alt="True Alliance project image">
+    <img class="project-img" src="images/IMG_8421.jpg" alt="True Alliance clothing">
+    <img class="project-img" src="images/IMG_1881.JPG" alt="Car photography">
+    <img class="project-img" src="images/C30BB8CD-686C-49B3-B196-4B5B4B2E16C5.JPEG" alt="Photography to design">
+  </section>
+
+  <section class="process-list">
+    <h2>Process</h2>
+    <ol>
+      <li>Gather provided files and brand assets.</li>
+      <li>Research the event purpose and visual direction.</li>
+      <li>Match color schemes to reinforce consistency.</li>
+      <li>Revise concepts based on feedback.</li>
+      <li>Prepare designs for digital posting or physical production.</li>
+    </ol>
+  </section>
+</main>
+
+<footer>
+  © Gavlin Barlow Portfolio
+</footer>
+
+</div>
+</body>
+</html>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #0f1110;
+  color: #f4f1ea;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+#wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #151817;
+}
+
+header {
+  padding: 30px 50px;
+  border-bottom: 1px solid rgba(255,255,255,.12);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6em;
+  font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+nav a {
+  color: #d8d1c4;
+  text-decoration: none;
+  margin-left: 28px;
+  font-size: .9em;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #ffffff;
+}
+
+.hero {
+  min-height: 620px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  align-items: center;
+  padding: 70px 50px;
+  background: linear-gradient(135deg, #151817 0%, #263431 100%);
+}
+
+.hero img {
+  width: 100%;
+  height: 520px;
+  object-fit: cover;
+  filter: grayscale(15%);
+}
+
+.eyebrow {
+  color: #b89b5e;
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  font-size: .78em;
+  font-weight: 700;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-size: 4em;
+  line-height: 1.05;
+  margin: 15px 0;
+}
+
+h2 {
+  font-size: 2.6em;
+  margin: 0 0 20px;
+}
+
+h3 {
+  font-size: 1.5em;
+  margin-bottom: 8px;
+}
+
+p {
+  color: #d8d1c4;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  border: 1px solid #b89b5e;
+  color: #ffffff;
+  text-decoration: none;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  font-size: .82em;
+}
+
+.btn:hover {
+  background: #b89b5e;
+  color: #111;
+}
+
+main {
+  padding: 60px 50px;
+}
+
+.section-intro {
+  max-width: 760px;
+  margin-bottom: 45px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+
+.card {
+  background: #1e2321;
+  border: 1px solid rgba(255,255,255,.1);
+  padding: 22px;
+}
+
+.card img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.card a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.card a:hover {
+  color: #b89b5e;
+}
+
+.feature {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 45px;
+  align-items: center;
+  padding: 45px;
+  background: #202927;
+  margin-bottom: 35px;
+}
+
+.feature img {
+  width: 100%;
+  max-height: 430px;
+  object-fit: cover;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.project-img {
+  width: 100%;
+  background: #fff;
+  padding: 10px;
+}
+
+.process-list {
+  background: #1e2321;
+  padding: 30px;
+  border-left: 5px solid #b89b5e;
+}
+
+.process-list li {
+  margin-bottom: 12px;
+  color: #d8d1c4;
+}
+
+.contact-box {
+  background: #202927;
+  padding: 45px;
+  max-width: 760px;
+}
+
+.contact-box a {
+  color: #b89b5e;
+}
+
+footer {
+  padding: 30px 50px;
+  border-top: 1px solid rgba(255,255,255,.12);
+  color: #8f8a80;
+  font-size: .85em;
+}footer a {
+  color: #b89b5e;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+footer a:hover {
+  color: #ffffff;
+}footer a {
+  color: #b89b5e;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+footer a:hover {
+  color: #ffffff;
+}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gavlin Barlow | Work</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<header>
+
+  <a class="logo" href="index.html">Gavlin Barlow</a>
+
+  <nav>
+    <a href="about.html">About</a>
+    <a href="work.html">Work</a>
+    <a href="project-truealliance.html">True Alliance</a>
+    <a href="project-parley.html">Parley</a>
+    <a href="contact.html">Contact</a>
+    <a href="https://www.linkedin.com/in/gavlin-barlow-14074a401/" target="_blank">LinkedIn</a>
+  </nav>
+
+</header>
+
+<main>
+
+<section class="section-intro">
+
+  <p class="eyebrow">Portfolio</p>
+
+  <h2>Selected Work</h2>
+
+  <p>
+    This portfolio highlights branding, publication design,
+    digital media, photography, apparel concepts,
+    and visual identity work developed through both
+    academic and personal creative projects.
+  </p>
+
+</section>
+
+<section class="grid">
+
+  <div class="card">
+
+    <img src="images/TrueALL.1.PNG"
+    alt="True Alliance logo">
+
+    <h3>
+      <a href="project-truealliance.html">
+        True Alliance Branding
+      </a>
+    </h3>
+
+    <p>
+      Brand identity work focused on event promotion,
+      automotive culture, community, and visual storytelling.
+    </p>
+
+  </div>
+
+  <div class="card">
+
+    <img src="images/honor-wallpaper.jpg"
+    alt="Honor digital wallpaper">
+
+    <h3>Digital Wallpaper</h3>
+
+    <p>
+      A wallpaper design using typography,
+      atmosphere, limited color palettes,
+      and visual hierarchy.
+    </p>
+
+  </div>
+
+  <div class="card">
+
+    <img src="images/parley-final.jpg"
+    alt="Parley publication concept">
+
+    <h3>
+      <a href="project-parley.html">
+        Parley Submission
+      </a>
+    </h3>
+
+    <p>
+      A publication concept developed for the
+      PPSC Literary and Arts Journal using
+      dark cinematic tones.
+    </p>
+
+  </div>
+
+  <div class="card">
+
+    <img src="images/IMG_8421.jpg"
+    alt="True Alliance hoodie">
+
+    <h3>Clothing Concepts</h3>
+
+    <p>
+      Apparel concepts developed from digital layouts
+      into wearable visual branding pieces.
+    </p>
+
+  </div>
+
+  <div class="card">
+
+    <img src="images/car-layout.jpg"
+    alt="Photography design layout">
+
+    <h3>Photography to Digital Design</h3>
+
+    <p>
+      Photography integrated into digital compositions
+      focused on motion, layering, contrast,
+      and identity.
+    </p>
+
+  </div>
+
+  <div class="card">
+
+    <img src="images/parley-logos.png"
+    alt="Logo exploration sheet">
+
+    <h3>Logo Creation</h3>
+
+    <p>
+      Logo studies exploring hierarchy,
+      symbolism, typography, texture,
+      and brand direction.
+    </p>
+
+  </div>
+
+</section>
+
+</main>
+
+<footer>
+
+  © Gavlin Barlow Portfolio |
+
+  <a href="https://www.linkedin.com/in/gavlin-barlow-14074a401/" target="_blank">
+    LinkedIn
+  </a>
+
+</footer>
+
+</div>
+
+</body>
+</html>
